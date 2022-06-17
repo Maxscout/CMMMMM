@@ -1,0 +1,11 @@
+
+List of commands
+copc: copy cell : where to copy from, where to copy to
+cops: copy self : where to copy to
+movc: move cell : which cell to move, where to move to
+movs: move self : where to move to
+remc: remove cell : where to remove
+rems: remove self
+genc: generate cell : which cell to generate, where to generate to
+
+List of 

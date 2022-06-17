@@ -1,0 +1,16 @@
+{
+    "0": {
+        "Texture": "",
+        "PushableFront": true,
+        "PushableBack":  true,
+        "PushableLeft":  true,
+        "PushableRight": true,
+        "DiesFromFront": false,
+        "DiesFromBack":  false,
+        "DiesFromLeft":  false,
+        "DiesFromRight": false,
+        "Actions":[
+            ["copc", 4, 0]
+        ]
+    }
+}
